@@ -32,8 +32,8 @@ Uma aplicação web simples de lista de tarefas desenvolvida com **Flask**. Perm
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/joaopaulomts/app_todolist_flask.git
+   cd app_todolist_flask
    ```
 
 2. Crie e ative um ambiente virtual:
