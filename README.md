@@ -1,7 +1,3 @@
-Aqui está uma versão simplificada do **README.md**, ajustada ao seu projeto:
-
----
-
 # To-Do List Web Application 📝
 
 Uma aplicação web simples de lista de tarefas desenvolvida com **Flask**. Permite adicionar e remover tarefas de forma rápida e intuitiva.
